@@ -13,7 +13,7 @@ setuptools.setup(
     license="GPLv3",
     python_requires=">=3",
     scripts=[
-        "Examples/makeTSVfile.py"],
+        "bin/makeTSVfile.py"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
